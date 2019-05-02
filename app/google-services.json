@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "805597864737",
+    "firebase_url": "https://onemore-1bb1f.firebaseio.com",
+    "project_id": "onemore-1bb1f",
+    "storage_bucket": "onemore-1bb1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805597864737:android:ff6f769ae5b7956c",
+        "android_client_info": {
+          "package_name": "com.example.sunilm.onemore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805597864737-qqiokio5u7rkm4olk945d6ofrv7go2dn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sunilm.onemore",
+            "certificate_hash": "c5ceb6397221c8edf6a0b56b908aa1f2f7149380"
+          }
+        },
+        {
+          "client_id": "805597864737-u4p6f53g8k51jni2gdsj5pt80s3dqv5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXB5vigMbn43rUXIyul5z1S8TOUfKkLiM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805597864737-u4p6f53g8k51jni2gdsj5pt80s3dqv5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

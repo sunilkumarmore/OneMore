@@ -1,0 +1,41 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sunilm.onemore.AddNewVideoFragement">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:id="@+id/container2"
+        android:layout_width="match_parent"
+        android:layout_height="149dp"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/videoId"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:layout_weight="0.15"
+            android:ems="10"
+            android:hint="@string/videoId"
+            android:inputType="textPersonName"
+            android:text="@string/videoId" />
+
+        <EditText
+            android:id="@+id/videoName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="@string/videoname"
+            android:inputType="textPersonName"
+            android:text="@string/videoname" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            android:layout_weight="0.15"
+            android:text="@string/addVideoToList" />
+    </LinearLayout>
+</FrameLayout>

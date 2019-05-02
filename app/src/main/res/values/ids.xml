@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="signup_button" type="id">signup</item>
+    <item name="fragment_collection_object" type="id">fragment_collection_object</item>
+    <item name="listview_more" type="id">listview_more</item>
+    <item name="pager" type="id">pager</item>
+    <item name="container21" type="id">container21</item>
+    <item name="button2" type="id">button2</item>
+    <item name="parentlistfragement" type="id">parentlistfragement</item>
+    <item name="container2" type="id">container2</item>
+    <item name="container4" type="id">container4</item>
+    <item name="container5" type="id">container4</item>
+    <item name="videoId" type="id">videoid</item>
+    <item name="videoName" type="id">video_name</item>
+    <item name="linearayoutforadapter" type="id">linearayoutforadapter</item>
+</resources>
